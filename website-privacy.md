@@ -136,7 +136,7 @@ Where you opt out of receiving these marketing messages, this will not apply to 
 
 ### Cookies
 
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see [LINK TO YOUR COOKIE POLICY].
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see the [cookie policy](/cookie).
 
 ### Change Of Purpose  
  
