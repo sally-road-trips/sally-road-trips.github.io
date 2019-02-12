@@ -3,7 +3,7 @@
 
 ## Important Information And Who We Are  
 
-?????
+Drivetype Technology Limited develop, maintain and administer Sally, the iPhone and Android smartphone app to help you enjoy great road trips.
 
 ### Purpose Of This Privacy Policy
 
