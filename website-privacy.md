@@ -218,6 +218,8 @@ Comply with a legal obligation means processing your personal data where it is n
 - HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based in the United Kingdom who require reporting of processing activities in certain circumstances.
 - Booking.com B.V., based in The Netherlands who provide accomodation booking services.
 
+### Your Legal Rights
+
 You have the right to:
 
 **Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
