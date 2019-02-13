@@ -3,8 +3,8 @@
 
 **Please read the terms of this policy carefully before using the site.**
 
-## What’s In These Terms?  
- 
+## What’s In These Terms?
+
 This acceptable use policy sets out the content standards that apply when you upload content to our site, make contact with other users on our site, link to our site, or interact with our site in any other way.
 
 ## Who We Are And How To Contact Us
@@ -12,10 +12,10 @@ This acceptable use policy sets out the content standards that apply when you up
 `drivetype.co.uk` and `sally.guide` are sites operated by Drivetype Technology Limited (”We”). We are registered in England and Wales under company number 11175148 and have our registered office at 7 Garden Close, Barnet, Herts, EN5 3EW. Our VAT number is GB287170579.
 
 We are a limited company.
- 
+
 To contact us, please email hello+use@drivetype.co.uk.
 
-## By Using Our Site You Accept These Terms  
+## By Using Our Site You Accept These Terms
 
 By using our site, you confirm that you accept the terms of this policy and that you agree to comply with them.
 
@@ -23,11 +23,11 @@ If you do not agree to these terms, you must not use our site.
 
 We recommend that you print a copy of these terms for future reference.
 
-## There Are Other Terms That May Apply To You  
+## There Are Other Terms That May Apply To You
 
 Our [Terms of website use](/website-terms) also apply to your use of our site.
 
-## We May Make Changes To The Terms Of This Policy 
+## We May Make Changes To The Terms Of This Policy
 
 We amend these terms from time to time. Every time you wish to use our site, please check these terms to ensure you understand the terms that apply at that time.
 
@@ -43,7 +43,7 @@ You may use our site only for lawful purposes. You may not use our site:
 - To knowingly transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed to adversely affect the operation of any computer software or hardware.
 
 You also agree:
- 
+
 - Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our [terms of website use](/website-terms).
 - Not to access without authority, interfere with, damage or disrupt:
   - any part of our site;
@@ -99,7 +99,7 @@ A Contribution must not:
 - Contain a statement which you know or believe, or have reasonable grounds for believing, that members of the public to whom the statement is, or is to be, published are likely to understand as a direct or indirect encouragement or other inducement to the commission, preparation or instigation of acts of terrorism.
 - Contain any advertising or promote any services or web links to other sites.
 
-## Breach Of This Policy  
+## Breach Of This Policy
 
 When we consider that a breach of this acceptable use policy has occurred, we may take such action as we deem appropriate.
 

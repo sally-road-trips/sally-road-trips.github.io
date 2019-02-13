@@ -1,7 +1,7 @@
 # Privacy Policy
 ### Monday 11th February 2019
 
-## Important Information And Who We Are  
+## Important Information And Who We Are
 
 Drivetype Technology Limited develop, maintain and administer Sally, the iPhone and Android smartphone app to help you enjoy great road trips.
 
@@ -19,7 +19,7 @@ Drivetype Technology Limited is the controller and responsible for your personal
 
 We have appointed a Data Protection Officer (DPO) who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the DPO using the details set out below.
 
-### Contact Details  
+### Contact Details
 
 If you have any questions about this privacy policy or our privacy practices, please contact our DPO in the following ways:
 
@@ -31,13 +31,13 @@ Postal address: 7 Garden Close, Barnet, Herts, EN5 3EW
 
 You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
-### Changes To The Privacy Policy And Your Duty To Inform Us Of Changes  
+### Changes To The Privacy Policy And Your Duty To Inform Us Of Changes
 
 We keep our privacy policy under regular review. This version was last updated on Monday 11th February 2019. Historic versions can be obtained by contacting us.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
-### Third-party Links  
+### Third-party Links
 
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.
 
@@ -64,7 +64,7 @@ We do not collect any Special Categories of Personal Data about you (this includ
 
 Where we need to collect personal data by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-## How Is Your Personal Data Collected? 
+## How Is Your Personal Data Collected?
 
 We use different methods to collect data from and about you including through:
 
@@ -86,7 +86,7 @@ We use different methods to collect data from and about you including through:
   1. search information providers such as Google based outside the EU.
 - Contact, Financial and Transaction Data from providers of technical, payment and delivery services.
 
-## How We Use Your Personal Data 
+## How We Use Your Personal Data
 
 We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
@@ -97,7 +97,7 @@ See "Lawful Basis" to find out more about the types of lawful basis that we will
 
 Generally, we do not rely on consent as a legal basis for processing your personal data although we will get your consent before sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by contacting us.
 
-### Purposes For Which We Will Use Your Personal Data  
+### Purposes For Which We Will Use Your Personal Data
 
 We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
@@ -128,7 +128,7 @@ You will receive marketing communications from us if you have requested informat
 
 We will get your express opt-in consent before we share your personal data with any third party for marketing purposes.
 
-### Opting Out  
+### Opting Out
 
 You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by contacting us at any time.
 
@@ -138,7 +138,7 @@ Where you opt out of receiving these marketing messages, this will not apply to 
 
 You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see the [cookie policy](/cookie).
 
-### Change Of Purpose  
+### Change Of Purpose
 
 We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
 
@@ -146,7 +146,7 @@ If we need to use your personal data for an unrelated purpose, we will notify yo
 
 Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
-## Disclosures Of Your Personal Data  
+## Disclosures Of Your Personal Data
 
 We may share your personal data with the parties set out below for the purposes set out in the table "Purposes for which we will use your personal data" above.
 
@@ -154,11 +154,11 @@ We may share your personal data with the parties set out below for the purposes 
 - Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
-## International Transfers 
+## International Transfers
 
 We do not transfer your personal data outside the European Economic Area (EEA)
 
-## Data Security 
+## Data Security
 
 We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
@@ -166,7 +166,7 @@ We have put in place procedures to deal with any suspected personal data breach 
 
 ## Data Retention
 
-### How Long Will You Use My Personal Data For?  
+### How Long Will You Use My Personal Data For?
 
 We will only retain your personal data for as long as reasonably necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. We may retain your personal data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.
 
@@ -178,7 +178,7 @@ In some circumstances you can ask us to delete your data: see "Your Legal Rights
 
 In some circumstances we will anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.
 
-## Your Legal Rights  
+## Your Legal Rights
 
 Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights:
 - Request access to your personal data.
@@ -191,21 +191,21 @@ Under certain circumstances, you have rights under data protection laws in relat
 
 If you wish to exercise any of the rights set out above, please contact us.
 
-### No Fee Usually Required  
+### No Fee Usually Required
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we could refuse to comply with your request in these circumstances.
 
-### What We May Need From You  
+### What We May Need From You
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-### Time Limit To Respond  
+### Time Limit To Respond
 
 We try to respond to all legitimate requests within one month. Occasionally it could take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
 ## Glossary
 
-### Lawful Basis  
+### Lawful Basis
 
 Legitimate Interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.
 
@@ -213,7 +213,7 @@ Performance of Contract means processing your data where it is necessary for the
 
 Comply with a legal obligation means processing your personal data where it is necessary for compliance with a legal obligation that we are subject to.
 
-### External Third Parties  
+### External Third Parties
 
 - HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based in the United Kingdom who require reporting of processing activities in certain circumstances.
 - Booking.com B.V., based in The Netherlands who provide accomodation booking services.
