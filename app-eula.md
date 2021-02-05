@@ -1,5 +1,5 @@
-# Sally Mobile Application End-User Licence Agreement
-### Wednesday 13th February 2019
+# Mobile Application End-User Licence Agreement
+### Friday 5th February 2021
 
 ## Please Read These Licence Terms Carefully
 
@@ -8,6 +8,7 @@ BY BUYING AND DOWNLOADING THE APP YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE 
 ## Who We Are And What This Agreement Does
 We Drivetype Technology Limited of 7 Garden Close, Barnet, Herts, EN5 3EW license you to use:
 - Sally mobile application software, the data supplied with the software, (App) and any updates or supplements to it.
+- Circle the date mobile application software, the data supplied with the software, (App) and any updates or supplements to it.
 - The related online documentation (Documentation).
 - The service you connect to via the App and the content we provide to you through it (Service).
 as permitted in these terms.
