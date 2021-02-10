@@ -1,9 +1,9 @@
 # Mobile Application End-User Licence Agreement
-### Friday 5th February 2021
+### Friday 10th February 2021
 
 ## Please Read These Licence Terms Carefully
 
-BY BUYING AND DOWNLOADING THE APP YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS DO NOT BUY THE APP.
+BY BUYING, DOWNLOADING OR SUBSCRIBING TO THE APP YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS DO NOT BUY OR SUBSCRIBE TO THE APP.
 
 ## Who We Are And What This Agreement Does
 We Drivetype Technology Limited of 7 Garden Close, Barnet, Herts, EN5 3EW license you to use:
@@ -31,9 +31,9 @@ Depending on the version downloaded, this app requres an iPhone or Android devic
 
 ## Support For The App And How To Tell Us About Problems
 
-**Support.** If you want to learn more about the App or the Service or have any problems using them please take a look at our support resources at [Sally](https://sally.guide).
+**Support.** If you want to learn more about the App or the Service or have any problems using them please take a look at our support resources at [Drivetype](https://www.drivetype.co.uk).
 
-**Contacting us (including with complaints).** If you think the App or the Services are faulty or misdescribed or wish to contact us for any other reason please email our customer service team at hello+help@sally.guide.
+**Contacting us (including with complaints).** If you think the App or the Services are faulty or misdescribed or wish to contact us for any other reason please email our customer service team at hello+eula@drivetype.co.uk.
 
 How we will communicate with you. If we have to contact you we will do so by email, by SMS or by pre-paid post, using the contact details you have provided to us.
 
