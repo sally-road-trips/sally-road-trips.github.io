@@ -1,9 +1,9 @@
 # Terms and Conditions
-### Tuesday 12th February 2019
+### Friday 12th February 2021
 
 ## Who We Are And How To Contact Us
 
-`drivetype.co.uk`, `drivetype.uk` and `sally.guide` are sites operated by Drivetype Technology Limited (”We”). We are registered in England and Wales under company number 11175148 and have our registered office at 7 Garden Close, Barnet, Herts, EN5 3EW. Our VAT number is GB287170579.
+`drivetype.co.uk`, `drivetype.uk`, `circlethedate.app` and `sally.guide` are sites operated by Drivetype Technology Limited (”We”). We are registered in England and Wales under company number 11175148 and have our registered office at 7 Garden Close, Barnet, Herts, EN5 3EW. Our VAT number is GB287170579.
 
 We are a limited company.
 

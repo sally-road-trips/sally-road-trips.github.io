@@ -4,7 +4,9 @@
 
 ## Important Information And Who We Are
 
-Drivetype Technology Limited develop, maintain and administer Sally, the iPhone and Android smartphone app to help you enjoy great trips.
+Drivetype Technology Limited develop, maintain and administer Sally and Circle the date.
+Sally, the iPhone and Android smartphone app to help you enjoy great trips.
+Circle the date, the iPhone and Android smartphone app to help couples get the most out of their date nights.
 
 ### Purpose Of This Privacy Policy
 
@@ -16,7 +18,7 @@ It is important that you read this privacy policy together with any other privac
 
 ### Controller
 
-Drivetype Technology Limited is the controller and responsible for your personal data (collectively referred to as "Drivetype", "Sally", we", "us" or "our" in this privacy policy).
+Drivetype Technology Limited is the controller and responsible for your personal data (collectively referred to as "Drivetype", "Sally", "Circle the date", "we", "us" or "our" in this privacy policy).
 
 We have appointed a Data Protection Officer (DPO) who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the DPO using the details set out below.
 
